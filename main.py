@@ -3,7 +3,6 @@ from utils import generate_xiaohongshu
 
 # 创建一个网站的标题
 st.header('爆款小红书AI写作助手 ✏️')
-st.write('##### ps：🫎🏄‍♂️🐠使用要交版权费😏')
 
 # 创建一个侧边栏
 with st.sidebar:
