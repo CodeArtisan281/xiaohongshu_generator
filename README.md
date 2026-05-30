@@ -1,4 +1,4 @@
 # xiaohongshu_generator
 ## 爆款小红书AI写作助手 ✏️
-## 作者：codes
+## 作者：pycodes-dev
 ### 文档中所需要的库都在requirements.txt文件中，需要安装的话可以在终端中输入`pip install -r requirements.txt`
